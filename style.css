@@ -1,0 +1,50 @@
+#form-cont {
+  width: 80%;
+  margin: 0 auto;
+}
+
+
+#container {
+  text-align: center;
+  width: 100%;
+  margin: 0 auto;
+}
+
+
+#demo,
+#notdemo {
+  text-align: center;
+}
+
+h1 {
+  background-color: #65c3ba;
+  width: 100%;
+}
+
+
+#notdemo {
+  color: #009688;
+  font-size: 200%
+}
+a:hover {color : white ;}
+
+
+#demo {
+  font-size: 200%;
+}
+
+
+footer {
+  background-color: #009688;
+  font-weight: bolder;
+  font-size: 160%;
+  color: white;
+}
+
+
+#just {
+  border: #009688 2px solid;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
